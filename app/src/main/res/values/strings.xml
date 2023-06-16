@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">HelloBud!</string>
+    <string name="daftar">daftar</string>
+    <string name="soal">1. Pilih gambar pisang</string>
+    <string name="perintah">%1$d. Pilih gambar %2$s</string>
+    <string name="soal_suara">%1$d. %2$s</string>
+    <string name="materi_sebelumnya">Materi Sebelumnya</string>
+    <string name="materi_selanjutnya">Materi Selanjutnya</string>
+    <string name="soal_sebelumnya">Soal Sebelumnya</string>
+    <string name="soal_selanjutnya">Soal Selanjutnya</string>
+    <string name="voice">Voice</string>
+    <string name="nama_materi">PISANG</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_ayo">Belum punya akun? Ayo</string>
+    <string name="materi">Materi</string>
+    <string name="kuis">Kuis</string>
+    <string name="keluarga">Keluarga</string>
+    <string name="kata_benda">Kata Benda</string>
+    <string name="buah_buahan">Buah-buahan</string>
+    <string name="sayur_sayuran">Sayur-sayuran</string>
+    <string name="pilih_kategori_materi">Pilih Kategori Materi</string>
+    <string name="email">e-mail</string>
+    <string name="register">Register</string>
+    <string name="jawaban">1. Pisang</string>
+    <string name="jawab">Jawab</string>
+    <string name="raja_buah">Horee!!</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="selamat_nilai_anda">Selamat Nilai Anda</string>
+    <string name="nilai">100</string>
+    <string name="my_self">My Self</string>
+    <string name="fruits">Fruits</string>
+    <string name="animals">Animals</string>
+
+    <string-array name="myself">
+        <item>Mata</item>
+        <item>Hidung</item>
+        <item>Telinga</item>
+        <item>Lidah</item>
+        <item>Kulit</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>Apel</item>
+        <item>Nanas</item>
+        <item>Pisang</item>
+        <item>Jeruk</item>
+        <item>Mangga</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>Kucing</item>
+        <item>Ayam</item>
+        <item>Sapi</item>
+        <item>Kambing</item>
+        <item>Semut</item>
+    </string-array>
+
+    <integer-array name="myself_photo">
+        <item>@drawable/mata</item>
+        <item>@drawable/hidung</item>
+        <item>@drawable/telinga</item>
+        <item>@drawable/lidah</item>
+        <item>@drawable/kulit</item>
+    </integer-array>
+
+    <integer-array name="fruits_photo">
+        <item>@drawable/apel</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/mangga</item>
+    </integer-array>
+
+    <integer-array name="animals_photo">
+        <item>@drawable/kucing</item>
+        <item>@drawable/ayam</item>
+        <item>@drawable/sapi</item>
+        <item>@drawable/kambing</item>
+        <item>@drawable/semut</item>
+    </integer-array>
+</resources>
